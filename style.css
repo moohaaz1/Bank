@@ -1,0 +1,137 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+body {
+  background-color: #0f438d;
+}
+nav .logo {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  color: white;
+}
+.logoicons {
+  display: flex;
+  gap: 20px;
+  font-size: 25px;
+  color: white;
+}
+.logo1 {
+  background-color: white;
+  color: black;
+  padding: 5px;
+  border: 0;
+  border-radius: 3px;
+}
+/*------------header---*/
+.headicon {
+  display: flex;
+  color: white;
+  justify-content: center;
+  gap: 25px;
+  text-align: center;
+  font-size: 30px;
+  padding-top: 10px;
+}
+.headicon p {
+  font-size: 15px;
+  color: rgb(210, 210, 210);
+  padding-top: 10px;
+}
+.headicon2 {
+  background-color: #124fa3;
+  border-radius: 100%;
+  border: 2px solid #1299a3;
+  width: 40px;
+  padding: 10px;
+}
+.headicon3 {
+  background-color: #124fa3;
+  border: 2px solid #1299a3;
+  border-radius: 100%;
+  width: 40px;
+  padding: 10px;
+  margin-left: 10px;
+}
+header {
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgba(237, 237, 237, 0.307);
+}
+/*-----headre end----*/
+.sec1 {
+  justify-content: center;
+  text-align: center;
+  color: white;
+  margin-top: 90px;
+}
+.secicon {
+  background-color: white;
+  color: #1471f3;
+  width: 30px;
+  font-size: 25px;
+  margin-left: 40%;
+  padding: 20px;
+  border-radius: 100%;
+  margin-bottom: 20px;
+}
+.sectxt p {
+  color: rgb(219, 219, 219);
+  padding-top: 10px;
+}
+.secbutton button {
+  background-color: #1471f3;
+  color: white;
+  width: 330px;
+  border-radius: 10px;
+  border: 0;
+  padding: 10px;
+  font-size: 20px;
+  margin-top: 10px;
+}
+.sec4 {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  color: rgb(219, 219, 219);
+  font-size: 11px;
+  padding-top: 15px;
+}
+/*----------boxes-----*/
+.boxes {
+  background-color: white;
+  margin-top: 20px;
+  height: 22vh;
+}
+.box1 {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  padding-top: 20px;
+}
+.box2 {
+  display: flex;
+  gap: 10px;
+}
+.box3 {
+  color: #0762e1;
+  font-size: 25px;
+}
+.box1 {
+  border-bottom: 1px solid rgba(173, 173, 173, 0.307);
+}
+.box4 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 10px;
+  gap: 45px;
+}
+.box5icon {
+  font-size: 25px;
+  color: #0762e1;
+}
+.box5 p {
+  font-size: 13px;
+}
